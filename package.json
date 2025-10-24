@@ -1,0 +1,12 @@
+{
+  "name": "jm-app-employee-age-api",
+  "version": "1.0.0",
+  "description": "Simple API to calculate employee age from dob",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
